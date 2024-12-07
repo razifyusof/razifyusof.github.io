@@ -1,6 +1,6 @@
 # Senior IT Executive
 
-#### Technical Skills: Microsoft Office 365, Microsoft Azure, Microsoft Active Directory, Snipe-IT Asset Management, 3CX IPPABX, Crowd Strike Endpoint-Security, Cpanel Manager, Autocount, Python, SQL
+#### Technical Skills: Microsoft Office 365, Microsoft Azure, Microsoft Server 2019-2022, Snipe-IT Asset Management, 3CX IPPABX, Crowd Strike Endpoint-Security, VMWare, Hyper-V, Autocount, Python, SQL
 
 ## Profesional Certificates
 - 2024 – Azure Solutions Architect Expert (Certified)
