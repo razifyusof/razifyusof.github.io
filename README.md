@@ -18,6 +18,9 @@
 - Certificate, IT Networking | Institut Latihan Perindustrian (ILP)  (_2007_)
 
 ## Work Experience
+
+logo: /imglib/career.png
+
 **Senior Executive, IT (Network & Infrastructure) @ XOX Com Sdn Bhd (_Nov 2019 - Present_)**
 
 ***End User Support***
