@@ -2,4 +2,6 @@ title: Razif Yusof
 logo: /imglib/gambar.jpeg
 description: Hi, I am Razif a students of Universiti Teknologi Malaysia. Welcom to my e-portfolio webpage!
 #show_downloads: true
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razifyusof/)
 theme: jekyll-theme-minimal
