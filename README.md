@@ -41,6 +41,18 @@
 - Azure Entra ID administrator – MFA management. 
 
 ***Server Administration***
+- Manage and maintain server infrastructure, ensuring high availability and performance. 
+- Conduct regular maintenance, updates, and patches on servers. 
+- Monitor server performance and troubleshooting issues as they arise. 
+- Implement and manage virtualization technologies (e.g., VMware, Hyper-V). 
+- Ensure server security and compliance with relevant policies and regulations. 
+- Plan and implement server backups and disaster recovery solutions.
+
+***Audit Compliance***
+- Prepare or review SOPs to align with the latest policies and requirements. 
+- Ensure compliance with internal and external IT policies and regulations. 
+- Conduct regular audits of IT systems and processes to ensure adherence to standards. 
+- Maintain records for audit purposes and facilitate audit processes. 
 
 **ICT EXECUTIVE  @ ATCEN Sdn Bhd (_Aug 2016 - Nov 2019_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
