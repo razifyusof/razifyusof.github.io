@@ -1,4 +1,5 @@
 title: Razif Yusof
-#logo: 
-description: Certified: Azure Solutions Architect Expert | Certified: Azure Security Engineer Associate | Certified: Azure Administrator Associate | Certified: ITIL V4 Foundation
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
