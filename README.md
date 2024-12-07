@@ -55,12 +55,32 @@
 - Maintain records for audit purposes and facilitate audit processes. 
 
 **ICT EXECUTIVE  @ ATCEN Sdn Bhd (_Aug 2016 - Nov 2019_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Spearheaded the ICT department, aiding all staff in need. 
+- Maintain and oversee all ICT-related hardware and software, including PCs, laptops, printers, scanners, projectors, PA systems, CCTV, networking equipment, and other devices. 
+- Regularly update and manage the Linux Lab, ensuring the latest Ubuntu OS version is installed. 
+- Troubleshoot issues with MAC Pro and MacBook Air, coordinating with vendors for necessary parts. 
+- Create Active Directory (AD) users on the server for new staff. 
+- Manage security access for specific domain users on shared folders. 
+- Address and resolve Microsoft Outlook email issues. 
+- Implement and maintain backup software systems to ensure the secure storage of user data. 
+- Install and verify the functionality of remote support on staff PCs. 
+- Maintain a comprehensive record of software licenses, ensuring their validity. 
+- Develop layout plans for the positioning of ICT items and update them in the event of changes. 
+- Oversee company emails, handling the creation and removal of staff email accounts. 
+- Manage the company website domain and hosting through Cpanel. 
+- Identify, manage, and collaborate with IT vendors for new projects or repairs. 
+- Request quotations from IT vendors as needed. 
+- Troubleshoot network problems and address cabling issues. 
+- Resolve telephone problems and coordinate with vendors for solutions. 
+- Ensure compliance with ICT SOP and align staff with ICT Rules and Regulations. 
+- Conduct periodic checks and preventive maintenance on IT hardware and software. 
 
 **IT Technical Support @ Comex Computer System Sdn Bhd (_Jan 2010 - Dec 2015_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+- Maintain, repair, and support all IT-related hardware and software, including computers, printers, scanners, monitors, servers, pin-pad devices, and My-card Reader devices. 
+- Resolve software issues efficiently using Remote Desktop to save time. 
+- Diagnose and repair both hardware and software problems. 
+- Troubleshoot software-related issues and proactively search for solutions. 
+- Travel to branches for on-site repairs when necessary. 
+- Ensure all users receive the latest software updates. 
 
 ## Projects
