@@ -19,11 +19,12 @@
 
 ## Work Experience
 **Senior Executive, IT (Network & Infrastructure) @ XOX Com Sdn Bhd (_Nov 2019 - Present_)**
+*** End User Support***
 - Provide end-user computing support for related requests or issues. 
 - Solve any IT issues related to software, hardware, and systems.
 - Manage Department Shared Drive C Printer access.
-- Manage access creation for new onboarding staff. (_EUC Support_)
-- 
+- Manage access creation for new onboarding staff. 
+
 
 **ICT EXECUTIVE  @ ATCEN Sdn Bhd (_Aug 2016 - Nov 2019_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
