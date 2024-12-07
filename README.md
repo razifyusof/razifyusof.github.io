@@ -19,7 +19,7 @@
 
 ## Work Experience
 **Senior Executive, IT (Network & Infrastructure) @ XOX Com Sdn Bhd (_Nov 2019 - Present_)**
-*** End User Support***
+***End User Support***
 - Provide end-user computing support for related requests or issues. 
 - Solve any IT issues related to software, hardware, and systems.
 - Manage Department Shared Drive C Printer access.
