@@ -19,7 +19,7 @@
 
 ## Work Experience
 
-logo: /imglib/career.png
+![Career](/imglib/career.png)
 
 **Senior Executive, IT (Network & Infrastructure) @ XOX Com Sdn Bhd (_Nov 2019 - Present_)**
 
