@@ -13,9 +13,9 @@
 - 2017 – Problem Solving and Decision-Making Skills (Completed)
 
 ## Education
-- Batchelor Degree, Computer Science (Computer Network & Security) | Universiti Technology Malaysia							       		
-- Diploma, IT Computer Networking	| Advanced Technology & Training Centre (ADTEC)	 			        		
-- Certificate, IT Computer Networking | Institut Latihan Perindustrian (ILP) 
+- Batchelor Degree, Computer Science (Computer Network & Security) | Universiti Teknologi Malaysia							       		
+- Diploma, IT Computer Networking	| Advanced Tech & Training Centre (ADTEC)	 			        		
+- Certificate, IT Computer Networking | Institut Latihan Perindustrian (ILP)
 
 ## Work Experience
 
