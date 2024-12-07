@@ -26,6 +26,21 @@
 - Manage Department Shared Drive C Printer access.
 - Manage access creation for new onboarding staff. 
 
+***Asset Management***
+- Execute procurement process when acquiring IT assets. 
+- Maintain, manage, and record IT assets. 
+- Maintain all system licenses, domain subscriptions, and application licenses, ensuring timely renewals. 
+- Identify end-of-life assets and plan for asset replacement. 
+- Manage IT asset write-offs and ensure secure data destruction for retired IT assets. 
+- Identify, manage, and liaise with IT vendors for any related tasks.
+
+***System Administration***
+- 3CX phone system administrator – ID creation, system update C migration, access management, and report scheduling. 
+- Asset System administrator – ID creation, LDAP synchronization, system updates, and record updates. 
+- Microsoft 365 administrator – ID and License management, group creation, email management, and access management. 
+- Azure Entra ID administrator – MFA management. 
+
+***Server Administration***
 
 **ICT EXECUTIVE  @ ATCEN Sdn Bhd (_Aug 2016 - Nov 2019_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
