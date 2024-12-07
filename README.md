@@ -14,7 +14,7 @@
 
 ## Education
 - Batchelor Degree, Computer Science (Computer Network & Security) | Universiti Teknologi Malaysia							       		
-- Diploma, IT Computer Networking	| Advanced Tech & Training Centre (ADTEC)	 			        		
+- Diploma, IT Computer Networking	| Pusat Latihan Teknologi Tinggi (ADTEC)	 			        		
 - Certificate, IT Computer Networking | Institut Latihan Perindustrian (ILP)
 
 ## Work Experience
