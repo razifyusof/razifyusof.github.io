@@ -83,4 +83,13 @@
 - Travel to branches for on-site repairs when necessary. 
 - Ensure all users receive the latest software updates. 
 
+## PERSONAL STRENGTHS:
+- Dynamic team player.
+- Strong sense of responsibility.
+- Highly inquisitive.
+- Creative and resourceful.
+- Fast learner.
+- Positive & growth mindset.
+
+
 ## Projects
