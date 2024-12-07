@@ -1,71 +1,24 @@
-ICT EXECUTIVE 
+# Data Scientist
 
-ATCEN Sdn. Bhd. | Selangor, Malaysia 
+#### Technical Skills: Python & SQL
 
-Industry:	Education 
+## Education
+- Batchelor Degree, Computer Sains (Network & Computer Security) | Universiti Technology Malaysia (_2024_)								       		
+- Diploma, IT Networking	| Advanced Technology & Training Centre (ADTEC) (_2009_)	 			        		
+- Certificate, IT Networking | Institut Latihan Perindustrian (ILP)  (_2007_)
 
-Specialization:	IT/Computer - Hardware Role:	Technical Support Position Level:	Senior Executive 
+## Work Experience
+**Senior Executive, IT (Network & Infrastructure) @ XOX Com Sdn Bhd (_Nov 2019 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
- 
+**ICT EXECUTIVE  @ ATCEN Sdn Bhd (_Aug 2016 - Nov 2019_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-RESPONSIBILITIES: 
+**IT Technical Support @ Comex Computer System Sdn Bhd (_Jan 2010 - Dec 2015_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
- 
 
-Spearhead the ICT department, aiding with all staff in need. 
-
-Maintain and oversee all ICT-related hardware and software, including PCs, laptops, printers, scanners, projectors, PA systems, CCTV, networking equipment, and other devices. 
-
-Regularly update and manage the Linux Lab, ensuring the installation of the latest Ubuntu OS version. 
-
-Troubleshoot issues with MAC Pro and MacBook Air, coordinating with vendors for necessary parts. 
-
-Create Active Directory (AD) users on the server for new staff. 
-
-Manage security access for specific domain users on shared folders. 
-
-Address and resolve Microsoft Outlook email issues. 
-
-Implement and maintain backup software systems to ensure the secure storage of user data. 
-
-Install and verify the functionality of remote support on staff PCs. 
-
-Maintain a comprehensive record of software licenses, ensuring their validity. 
-
-Develop layout plans for the positioning of ICT items and update them in the event of changes. 
-
-Oversee company emails, handling the creation and removal of staff email accounts. 
-
-Manage the company website domain and hosting through Cpanel. 
-
-Identify, manage, and collaborate with IT vendors for new projects or repairs. 
-
-Request quotations from IT vendors as needed. 
-
-Troubleshoot network problems and address cabling issues. 
-
-Resolve telephone problems and coordinate with vendors for solutions. 
-
-Ensure compliance with ICT SOP and align staff with ICT Rules and Regulations. 
-
-Conduct periodic checks and preventive maintenance on IT hardware and software. 
-
- 
-
-EXPERIENCES GAINED: 
-
- 
-
-Acquired in-depth knowledge of CCTV systems. 
-
-Expanded expertise in Server, Domain, and Active Directory management. 
-
-Developed skills in vendor liaison. 
-
-Gained experience in supporting MAC and Linux computers. 
-
-Familiarity with College working culture. 
-
-Proficiency in PA system setup, configuration, and cabling. 
-
-Hands-on experience in live events audio and visual setup. 
+## Projects
