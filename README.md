@@ -3,14 +3,14 @@
 #### Technical Skills: Python & SQL
 
 ## Profesional Certificates
-• 2024 – Azure Solutions Architect Expert (Certified)
-• 2024 – Azure Security Engineer (Certified)
-• 2024 – Azure Administrator Associate (Certified)
-• 2024 – Azure Fundamental (Completed)
-• 2024 – Digital Leadership (Completed)
-• 2024 – Microsoft identity and access administrator associate (Completed)
-• 2023 – ITIL V4 Foundation (Certified)
-• 2017 – Problem Solving and Decision-Making Skills (Completed)
+- 2024 – Azure Solutions Architect Expert (Certified)
+- 2024 – Azure Security Engineer (Certified)
+- 2024 – Azure Administrator Associate (Certified)
+- 2024 – Azure Fundamental (Completed)
+- 2024 – Digital Leadership (Completed)
+- 2024 – Microsoft identity and access administrator associate (Completed)
+- 2023 – ITIL V4 Foundation (Certified)
+- 2017 – Problem Solving and Decision-Making Skills (Completed)
 
 ## Education
 - Batchelor Degree, Computer Sains (Network & Computer Security) | Universiti Technology Malaysia (_2024_)								       		
