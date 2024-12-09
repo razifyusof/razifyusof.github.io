@@ -93,7 +93,7 @@
 - Creative and resourceful.
 - Fast learner.
 - Positive & growth mindset.
-- 
+
 #### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razifyusof/)
 
@@ -142,15 +142,15 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
     
 ---
 
-### Provided Solutions
+### The Solutions
 
 **1) New user accounts**
 <br><br> 
 - **Solution Diagram**
 
 ![CAzure1](/imglib/azuretailwind1.png)
-    
-    - Use Azure AD connect installed on On-Prem Active Directory to sync users to Azure Entra ID. For new marketing partner users can be added as Azure B2B Collaboration.
+
+- Use Azure AD connect installed on On-Prem Active Directory to sync users to Azure Entra ID. For new marketing partner users can be added as Azure B2B Collaboration.
 
 - **Benefits for this solutions**
 
@@ -171,4 +171,17 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 **2) New Application Access**
 
 ![CAzure3](/imglib/tailwind3.png)
+
+### **Conclusion**  
+
+The proposed solutions effectively address Tailwind Traders' needs for integrating new user accounts and securing application access. By leveraging **Azure Active Directory** and its advanced features like **B2B Collaboration**, **Azure AD Connect**, and **Privileged Identity Management (PIM)**, the integration of acquired and partner accounts ensures seamless onboarding, enhanced security, and centralized management.  
+
+For application access, the use of **Managed Identity** and **Azure Key Vault** eliminates the need for storing credentials, ensuring secure communication between Azure resources and on-premises servers. The design adheres to **Azure’s Well-Architected Framework** pillars of **security, operational excellence, and scalability**, ensuring that the solution is robust and future-proof.  
+
+### **Key Benefits**  
+1. **Improved Security**: Multi-Factor Authentication (MFA) and Conditional Access mitigate unauthorized access risks.  
+2. **Scalability**: Azure AD's capabilities support growing business needs while maintaining efficiency.  
+3. **Simplified Management**: Centralized identity and access management streamline operations for IT teams.  
+
+These solutions provide Tailwind Traders with a secure, scalable, and efficient identity and access management framework, enabling smooth business expansion and operational excellence.
 
