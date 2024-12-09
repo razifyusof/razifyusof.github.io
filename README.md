@@ -99,11 +99,11 @@
 
 ## My Projects
 ### 1) UTM TIS Project - Smart Healthcare System (Using design thinking methodology)
-### 1. Empathize
+#### 1. Empathize
 Interview video
 <br><br> 
     
-### 2. Define
+#### 2. Define
 Synthesize the information gathered to identify the core problem.
 
 **Problem Statement:**
@@ -185,12 +185,6 @@ Plan for launching and scaling the solution.
 - **For Hospitals/Clinics**:
   - Increased service efficiency and patient satisfaction.
 
-
-**Problem Statement:**
-"Elderly individuals face challenges in consistently accessing and managing their medications due to mobility issues, memory lapses, and dependency on hospital visits, which reduces their quality of life and independence."
-
-**Design Goal:**
-"Create a smart medicine box that ensures easy, accessible, and timely medication management, empowering elderly users to manage their health independently while keeping caregivers and healthcare providers informed."
 <br><br> 
 
 
