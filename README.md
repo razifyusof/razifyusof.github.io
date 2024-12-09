@@ -159,8 +159,11 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 
 **Recommendations to improve Tailwind Traders user identity solutions**
 1) ***Implement Multi-Factor Authentication (MFA) for All Users*** - Enhances security by adding an extra layer of protection, reduces the risk of unauthorized access & protects against credential theft.
+
 2) ***Implement Conditional Access Policies*** - Ensures access is only granted under specific conditions (e.g., trusted locations, compliant devices), Helps mitigate the risk of compromised accounts being used maliciously & Provides better control over access to critical resources.
+
 3) ***Utilize Privileged Identity Management (PIM)*** - Provides just-in-time access to Azure AD and Azure resources, reduces the risk of excessive, unnecessary, or misused permissions & ensures that high-level permissions are granted only when needed.
+
 <br><br> 
 
 **2) New Application Access**
