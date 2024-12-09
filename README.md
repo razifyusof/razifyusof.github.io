@@ -146,19 +146,19 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 
 **1) New user accounts**
 <br><br> 
-**Solution Diagram**
+- **Solution Diagram**
 
 ![CAzure1](/imglib/azuretailwind1.png)
-- Use Azure AD connect installed on On-Prem Active Directory to sync users to Azure Entra ID. For new marketing partner users can be added as Azure B2B Collaboration.
+ 1) Use Azure AD connect installed on On-Prem Active Directory to sync users to Azure Entra ID. For new marketing partner users can be added as Azure B2B Collaboration.
 
-**Benefits for this solutions**
+- **Benefits for this solutions**
 
 ![CAzure2](/imglib/tailwind2.png)
 
 
 
-**Recommendations to improve Tailwind Traders user identity solutions**
-- 1) ***Implement Multi-Factor Authentication (MFA) for All Users*** - Enhances security by adding an extra layer of protection, reduces the risk of unauthorized access & protects against credential theft.
+- **Recommendations to improve Tailwind Traders user identity solutions**
+  1) ***Implement Multi-Factor Authentication (MFA) for All Users*** - Enhances security by adding an extra layer of protection, reduces the risk of unauthorized access & protects against credential theft.
   2) ***Implement Conditional Access Policies*** - Ensures access is only granted under specific conditions (e.g., trusted locations, compliant devices), Helps mitigate the risk of compromised accounts being used maliciously & Provides better control over access to critical resources.
   3) ***Utilize Privileged Identity Management (PIM)*** - Provides just-in-time access to Azure AD and Azure resources, reduces the risk of excessive, unnecessary, or misused permissions & ensures that high-level permissions are granted only when needed.
 
