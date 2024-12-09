@@ -101,7 +101,7 @@
 ### 1) UTM Design Thinking Project - Government Clinics Appointment & Medicine Box System
 ### 1. Empathize
 Interview video
-<br><be> 
+<br><br> 
     
 ### 2. Define
 Synthesize the information gathered to identify the core problem.
@@ -113,7 +113,7 @@ Synthesize the information gathered to identify the core problem.
 
 **Design Goal:**
 "Create a smart medicine box that ensures easy, accessible, and timely medication management, empowering elderly users to manage their health independently while keeping caregivers and healthcare providers informed."
-
+<br><br> 
 ### 2) Azure Solution Architect - Design authentication and authorization solutions for Tailwind Traders
 ### Requirements
 Tailwind Traders is doing very well and is expanding their workforce. They have successfully acquired an online retailer in the sports apparel space. The company has also located a partner to outsource marketing literature. Tailwind Traders is using Azure Active Directory for user and group accounts. Here are two specific initiatives the IT department would like you to help with. 
