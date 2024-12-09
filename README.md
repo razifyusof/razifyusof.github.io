@@ -184,7 +184,7 @@ Plan for launching and scaling the solution.
   - Enhanced patient care through better data management.
 - **For Hospitals/Clinics**:
   - Increased service efficiency and patient satisfaction.
-<br><br> 
+
 ---
 
 ### 2) Azure Solution Architect - Design authentication and authorization solutions for Tailwind Traders
