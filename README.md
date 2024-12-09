@@ -120,23 +120,15 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
   * The business development team has an application running an on Azure VM and data stored in an Azure SQL database. They need to securely allow the VM to query the Azure SQL database. 
   * They also need an on-premises server to be able to securely access the SQL database without storing credentials in the application code or configuration files.
 
-### Tasks
+#### Provided Solutions
 
-**New user accounts**
+- Use Azure AD connect installed on On-Prem Active Directory to sync users to Azure Entra ID. For new marketing partner users can be added as Azure B2B Collaboration.
 
-  * Diagram the process for bringing in the acquired user accounts.
+![CAzure](/imglib/tailwind1.png)
 
-  * Diagram the process for adding the new partner accounts. 
+**Benefits for this solutions**
 
-  * For the above requirements, be sure to include any tools that will be used. List at least three benefits of your suggested solution. 
 
-* Provide at least three recommendations for improving Tailwind Traders user identity solutions. Rank the recommendations in order of importance. Include your reasons for making these suggestions. 
-
-**New application access**
-
-  * Provide an access solution for the business development application.
-
-  * Provide an access solution for the on-premises resources.
 
 
 
