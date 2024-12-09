@@ -1,4 +1,4 @@
-<img width="367" alt="image" src="https://github.com/user-attachments/assets/6a375100-eb35-47e0-a649-fb88a1a306a7"># Senior IT Executive
+# Senior IT Executive
 
 #### Technical Skills: Microsoft Office 365, Microsoft Azure, Microsoft Server 2019-2022, Snipe-IT Asset Management, 3CX IPPABX, Crowd Strike Endpoint-Security, VMWare, Hyper-V, Autocount, Python, SQL
 
@@ -99,7 +99,20 @@
 
 ## Projects
 ### 1) UTM Design Thinking Project - Government Clinics Appointment & Medicine Box System
+### 1. Empathize
+Interview video
+<br><be> 
+    
+### 2. Define
+Synthesize the information gathered to identify the core problem.
 
+
+
+**Problem Statement:**
+"Elderly individuals face challenges in consistently accessing and managing their medications due to mobility issues, memory lapses, and dependency on hospital visits, which reduces their quality of life and independence."
+
+**Design Goal:**
+"Create a smart medicine box that ensures easy, accessible, and timely medication management, empowering elderly users to manage their health independently while keeping caregivers and healthcare providers informed."
 
 ### 2) Azure Solution Architect - Design authentication and authorization solutions for Tailwind Traders
 ### Requirements
@@ -132,7 +145,7 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 ### Provided Solutions
 
 **1) New user accounts**
-
+<br><br> 
 **Solution Diagram**
 
 ![CAzure1](/imglib/azuretailwind1.png)
@@ -148,8 +161,9 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 1) ***Implement Multi-Factor Authentication (MFA) for All Users*** - Enhances security by adding an extra layer of protection, reduces the risk of unauthorized access & protects against credential theft.
 2) ***Implement Conditional Access Policies*** - Ensures access is only granted under specific conditions (e.g., trusted locations, compliant devices), Helps mitigate the risk of compromised accounts being used maliciously & Provides better control over access to critical resources.
 3) ***Utilize Privileged Identity Management (PIM)*** - Provides just-in-time access to Azure AD and Azure resources, reduces the risk of excessive, unnecessary, or misused permissions & ensures that high-level permissions are granted only when needed.
-
+<br><br> 
 
 **2) New Application Access**
 
 ![CAzure3](/imglib/tailwind3.png)
+
