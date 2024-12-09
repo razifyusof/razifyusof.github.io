@@ -97,7 +97,7 @@
 #### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razifyusof/)
 
-## Projects
+## My Projects
 ### 1) UTM TIS Project - Smart Healthcare System (Using design thinking methodology)
 ### 1. Empathize
 Interview video
