@@ -133,7 +133,7 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 **1) New user accounts**
 - Use Azure AD connect installed on On-Prem Active Directory to sync users to Azure Entra ID. For new marketing partner users can be added as Azure B2B Collaboration.
 
-![CAzure1](/imglib/tailwind1.png)
+![CAzure1](/imglib/azuretailwind1.png)
 
 **Benefits for this solutions**
 
