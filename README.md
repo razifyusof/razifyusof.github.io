@@ -98,7 +98,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razifyusof/)
 
 ## Projects
-### 1) UTM Design Thinking Project - Government Clinics Appointment & Medicine Box System
+### 1) UTM TIS Project - Smart Healthcare System (Using design thinking methodology)
 ### 1. Empathize
 Interview video
 <br><br> 
@@ -106,6 +106,84 @@ Interview video
 ### 2. Define
 Synthesize the information gathered to identify the core problem.
 
+**Problem Statement:**
+"Elderly patients experience long waiting times at clinics due to manual queue systems, unoptimized checkup workflows, and decentralized patient records, leading to frustration and inefficiency in healthcare services."
+
+#### 3. Ideate
+Brainstorm potential solutions collaboratively.
+
+**Techniques Used:**
+- **Brainstorming Workshop** with healthcare staff, patients, and technologists.
+- **"How Might We" (HMW) Questions**:
+  - HMW eliminate the need for manual registration?
+  - HMW reduce the time for nurse checkups and doctor consultations?
+  - HMW ensure patients can collect medicines anytime?
+
+**Potential Solutions:**
+- Digital queue system with QR-based check-in.
+- Nurse checkup tablets for instant record updates.
+- Doctor dashboard for quick access to patient history.
+- Smart medicine box for flexible medicine collection.
+- Centralized database for all records and inventory.
+
+#### 4. Prototype
+Develop quick prototypes to test with users.
+
+**Prototypes Created:**
+1. **Digital Queue System:**
+   - Low-fidelity mockup showing QR code check-in.
+   - High-fidelity version to simulate user experience.
+2. **Smart Checkup Workflow:**
+   - Mockup of a tablet interface for nurses.
+3. **Doctor Dashboard:**
+   - Demo showing easy access to patient data.
+4. **Smart Medicine Box:**
+   - Cardboard model to showcase design.
+   - Working prototype using IoT components.
+
+#### 5. Test
+Iterate prototypes based on feedback.
+
+**Testing Process:**
+- **User Testing**:
+  - Elderly patients tested the digital queue system and smart medicine box.
+  - Nurses and doctors evaluated the checkup system and dashboard.
+  - Pharmacists assessed the centralized inventory system.
+- **Feedback Collection**:
+  - Questions asked included: "Is the solution easy to use?" "Does it reduce waiting time?" "Is the system intuitive?"
+- **Iteration**:
+  - Refinement based on user feedback to ensure a user-friendly experience.
+
+
+#### 6. Implement
+Plan for launching and scaling the solution.
+
+**Implementation Phases:**
+1. **Pilot Test**:
+   - Initial rollout in one clinic to monitor real-world usage.
+2. **Full Rollout**:
+   - Expand the solution to multiple locations after pilot success.
+3. **Post-Launch Optimization**:
+   - Continuous monitoring and updates based on user feedback.
+
+
+### Future Enhancements
+- **Continuous Integration** using GitHub Actions for automated testing.
+- **Documentation** improvements to guide new users and developers.
+- **Community Contributions**: Open-source collaboration for further feature development.
+
+
+**Outcome:**
+- **For Patients**:
+  - Registration time reduced from 30 minutes to near-zero.
+  - Nurse checkups reduced from 30 minutes to 10 minutes.
+  - Doctor consultations reduced from 1 hour 30 minutes to 30 minutes.
+  - Medicine collection time minimized through anytime access.
+- **For Healthcare Staff**:
+  - Improved workflows and reduced manual effort.
+  - Enhanced patient care through better data management.
+- **For Hospitals/Clinics**:
+  - Increased service efficiency and patient satisfaction.
 
 
 **Problem Statement:**
@@ -114,6 +192,8 @@ Synthesize the information gathered to identify the core problem.
 **Design Goal:**
 "Create a smart medicine box that ensures easy, accessible, and timely medication management, empowering elderly users to manage their health independently while keeping caregivers and healthcare providers informed."
 <br><br> 
+
+
 ### 2) Azure Solution Architect - Design authentication and authorization solutions for Tailwind Traders
 ### Requirements
 Tailwind Traders is doing very well and is expanding their workforce. They have successfully acquired an online retailer in the sports apparel space. The company has also located a partner to outsource marketing literature. Tailwind Traders is using Azure Active Directory for user and group accounts. Here are two specific initiatives the IT department would like you to help with. 
