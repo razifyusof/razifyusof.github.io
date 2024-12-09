@@ -1,4 +1,4 @@
-# Senior IT Executive
+<img width="367" alt="image" src="https://github.com/user-attachments/assets/6a375100-eb35-47e0-a649-fb88a1a306a7"># Senior IT Executive
 
 #### Technical Skills: Microsoft Office 365, Microsoft Azure, Microsoft Server 2019-2022, Snipe-IT Asset Management, 3CX IPPABX, Crowd Strike Endpoint-Security, VMWare, Hyper-V, Autocount, Python, SQL
 
@@ -106,14 +106,14 @@
 Tailwind Traders is doing very well and is expanding their workforce. They have successfully acquired an online retailer in the sports apparel space. The company has also located a partner to outsource marketing literature. Tailwind Traders is using Azure Active Directory for user and group accounts. Here are two specific initiatives the IT department would like you to help with. 
 
 **New user accounts**
-  * The online retailer acquisition will add 75 employees to Tailwind Traders. All the new users have on-premises Active Directory Domain Services accounts in the retailer’s existing domain.
-  * The new marketing partner will initially have 15 employees who will need corporate access. These employees already have Azure AD accounts in the partner’s AAD tenant. 
-  * The new employees are located at various geographic locations and will need account privileges for their new job roles. Some changes to existing employee roles are expected. 
-  * The IT department wants to take this opportunity to include new identity security features. 
+- The online retailer acquisition will add 75 employees to Tailwind Traders. All the new users have on-premises Active Directory Domain Services accounts in the retailer’s existing domain.
+- The new marketing partner will initially have 15 employees who will need corporate access. These employees already have Azure AD accounts in the partner’s AAD tenant.
+- The new employees are located at various geographic locations and will need account privileges for their new job roles. Some changes to existing employee roles are expected.
+- The IT department wants to take this opportunity to include new identity security features. 
 
 **New application access**
-  * The business development team has an application running on an Azure VM and data stored in an Azure SQL database. They need to securely allow the VM to query the Azure SQL database. 
-  * They also need an on-premises server to be able to securely access the SQL database without storing credentials in the application code or configuration files.
+- The business development team has an application running on an Azure VM and data stored in an Azure SQL database. They need to securely allow the VM to query the Azure SQL database. 
+- They also need an on-premises server to be able to securely access the SQL database without storing credentials in the application code or configuration files.
     
 ### Tasks
 
@@ -125,15 +125,18 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 
 **New application access**
   * Provide an access solution for the business development application.
-  * Provide an access solution for the on-premises resources.    
+  * Provide an access solution for the on-premises resources.
+    
 ---
 
 ### Provided Solutions
 
 **1) New user accounts**
-- Use Azure AD connect installed on On-Prem Active Directory to sync users to Azure Entra ID. For new marketing partner users can be added as Azure B2B Collaboration.
+
+**Solution Diagram**
 
 ![CAzure1](/imglib/azuretailwind1.png)
+- Use Azure AD connect installed on On-Prem Active Directory to sync users to Azure Entra ID. For new marketing partner users can be added as Azure B2B Collaboration.
 
 **Benefits for this solutions**
 
@@ -141,3 +144,12 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 
 
 
+**Recommendations to improve Tailwind Traders user identity solutions**
+1) ***Implement Multi-Factor Authentication (MFA) for All Users*** - Enhances security by adding an extra layer of protection, reduces the risk of unauthorized access & protects against credential theft.
+2) ***Implement Conditional Access Policies*** - Ensures access is only granted under specific conditions (e.g., trusted locations, compliant devices), Helps mitigate the risk of compromised accounts being used maliciously & Provides better control over access to critical resources.
+3) ***Utilize Privileged Identity Management (PIM)*** - Provides just-in-time access to Azure AD and Azure resources, reduces the risk of excessive, unnecessary, or misused permissions & ensures that high-level permissions are granted only when needed.
+
+
+**2) New Application Access**
+
+![CAzure3](/imglib/tailwind3.png)
